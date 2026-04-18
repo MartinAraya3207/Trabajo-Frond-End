@@ -71,7 +71,19 @@ nav ul li a {
 
 #descripcion h2 {
     color: #1abc9c;
+    text-align: center;
+}
+
+#Productos {
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+
+#Productos h2 {
+    color: #000;
     margin-bottom: 20px;
+    text-align: center;
+    background-color: #1abc9c;    
 }
 
 /* FOOTER */
