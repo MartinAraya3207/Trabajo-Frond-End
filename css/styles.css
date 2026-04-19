@@ -45,8 +45,9 @@ nav ul li a {
 /* LOGO */
 .logo {
     position: absolute;
-    top: 10px;
+    top: 100%;
     right: 20px;
+    transform: translateY(-50%);
 }
 
 .logo img {
@@ -116,5 +117,35 @@ footer {
 
     .logo img {
         width: 80px;
+    }
+}
+
+/* 📱 MÓVIL */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .hero h2 {
+        font-size: 18px;
+    }
+
+    .logo img {
+        width: 50px;
+    }
+}
+
+/* 📲 TABLET */
+@media (max-width: 900px) {
+    header h1 {
+        font-size: 24px;
+    }
+}
+
+/* 💻 DESKTOP */
+@media (min-width: 901px) {
+    header h1 {
+        font-size: 32px;
     }
 }
