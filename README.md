@@ -16,3 +16,5 @@ Secciones que tiene la pagina:
 - Footer con los contactos y las paginas oficiales de la clienta
 
 - Integrantes: Benjamín Álvarez y Martin Araya
+
+- https://martinaraya3207.github.io/Mercadito-Fran-Aracena/
