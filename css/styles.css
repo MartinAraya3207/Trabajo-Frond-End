@@ -271,3 +271,8 @@ th {
     max-width: 1200px;
     text-align: left;
 }
+
+tr:last-child {
+    background-color: #eaeaea;
+    font-weight: bold;
+}
